@@ -1,0 +1,16 @@
+D E C B A
+A B C D E
+D E C B A
+A B C D E
+E D C B A
+A B C D E
+A B C D E
+E D C B A
+A B C D E
+E D C B A
+A B C D E
+E D C B A
+D E C B A
+A B C D E
+D E C B A
+E D C B A
